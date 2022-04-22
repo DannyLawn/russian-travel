@@ -1,3 +1,5 @@
 .content__photo-grid {
+  box-sizing: inherit;
+  width: 100%;
   padding: 92px 48px;
 }

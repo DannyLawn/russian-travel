@@ -1,3 +1,4 @@
 .page__footer {
   padding: 92px 48px 24px;
+  box-sizing: inherit;
 }

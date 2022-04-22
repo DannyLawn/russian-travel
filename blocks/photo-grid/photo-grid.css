@@ -1,5 +1,4 @@
 .photo-grid {
-  box-sizing: inherit;
   display: grid;
   grid-template-columns: repeat(4, minmax(min-content, max-content));
   grid-template-rows: repeat(2, minmax(min-content, max-content));

@@ -1,0 +1,11 @@
+.places__item {
+  display: grid;
+  padding-bottom: 80px;
+  grid-template-columns: repeat(2, minmax(min-content, 460px));
+  gap: 48px 40px;
+  color: #fff;
+}
+
+.places__item:last-of-type {
+  padding-bottom: 0;
+}
