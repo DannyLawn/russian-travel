@@ -2,3 +2,15 @@
   padding: 92px 48px 24px;
   box-sizing: inherit;
 }
+
+@media screen and (max-width: 1023px) {
+  .page__footer {
+    padding: 88px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__footer {
+    padding: 64px 16px 24px;
+  }
+}
