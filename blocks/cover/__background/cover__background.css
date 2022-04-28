@@ -8,15 +8,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(../../../images/cover-trains.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background: no-repeat center / contain url("../../../images/cover-trains.jpg");
   position: relative;
 }
 
 .cover__background::after {
   content: "";
-  background-color: #2A2C2F;
+  background: #2A2C2F;
   opacity: .3;
   transition: opacity .3s ease-in-out;
   position: absolute;

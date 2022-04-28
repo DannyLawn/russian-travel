@@ -2,6 +2,7 @@
   box-sizing: inherit;
   display: flex;
   justify-content: space-between;
+  color: #fff;
 }
 
 @media screen and (max-width: 767px) {

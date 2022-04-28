@@ -1,7 +1,10 @@
-.places__caption {
+.places__link-title {
+  display: block;
+  text-transform: uppercase;
   font-weight: normal;
   font-size: 12px;
   line-height: 12px;
+  letter-spacing: 2px;
   padding-bottom: 12px;
   color: #aaa;
 }

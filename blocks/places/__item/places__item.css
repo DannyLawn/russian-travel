@@ -5,7 +5,6 @@
   display: grid;
   padding-bottom: 80px;
   gap: 48px 40px;
-  color: #fff;
 }
 
 .places__item:last-of-type {
@@ -33,6 +32,6 @@
   .places__item {
     grid-template-columns: minmax(320px, 1fr);
     gap: 32px;
-    padding-bottom: 64px;
+    padding-bottom: 50px;
   }
 }
