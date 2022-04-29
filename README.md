@@ -1,4 +1,6 @@
 # Проект: Путешествие по России
+------
+### __[Перейти на страницу проекта](https://dannylawn.github.io/russian-travel/index.html)__ 
 
 ## Описание
 
