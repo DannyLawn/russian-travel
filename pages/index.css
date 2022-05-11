@@ -43,6 +43,13 @@
 @import url(../blocks/places/__text-block/places__text-block.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 
+@import url(../blocks/video/video.css);
+@import url(../blocks/content/__video/content__video.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_align/section-title_align-center.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_align/section-subtitle_align-center.css);
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/content/__cover/content__cover.css);
 @import url(../blocks/cover/__background/cover__background.css);
