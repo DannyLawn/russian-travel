@@ -1,0 +1,26 @@
+.video__link {
+  display: block;
+  width: 100%;
+  min-height: 192px;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: inherit;
+  aspect-ratio: 583 / 323;
+}
+
+.video__link::after {
+  content: "";
+  background: #2A2C2F;
+  opacity: .5;
+  transition: opacity .3s ease-in-out;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+.video__link:hover::after {
+  opacity: .2;
+}

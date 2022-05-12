@@ -45,10 +45,20 @@
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/content/__video/content__video.css);
-@import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_align/section-title_align-center.css);
-@import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_align/section-subtitle_align-center.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__title/_align/video__title_align-center.css);
+@import url(../blocks/video/__subtitle/video__subtitle.css);
+@import url(../blocks/video/__subtitle/_align/video__subtitle_align-center.css);
+@import url(../blocks/video/__container/video__container.css);
+@import url(../blocks/video/__item/video__item.css);
+@import url(../blocks/video/__link/video__link.css);
+@import url(../blocks/video/__background-img/video__background-img.css);
+@import url(../blocks/video/__elements/video__elements.css);
+@import url(../blocks/video/__play-icon/video__play-icon.css);
+@import url(../blocks/video/__info-block/video__info-block.css);
+@import url(../blocks/video/__duration/video__duration.css);
+@import url(../blocks/video/__item-title/video__item-title.css);
+@import url(../blocks/video/__director/video__director.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/content/__cover/content__cover.css);

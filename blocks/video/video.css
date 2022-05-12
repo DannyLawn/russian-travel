@@ -1,3 +1,4 @@
 .video {
   color: #fff;
+  box-sizing: inherit;
 }

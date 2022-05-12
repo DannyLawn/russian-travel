@@ -1,24 +1,17 @@
 .content__video {
   box-sizing: inherit;
   width: 100%;
-  padding: calc(102px - 92px) 0 102px;
-  
-}
-
-/* @media screen and (max-width: 1279px) {
-  .content__video {
-
-  }
+  padding: calc(102px - 92px) 48px 102px;
 }
 
 @media screen and (max-width: 1023px) {
   .content__video {
-    
+    padding: calc(95px - 90px) 24px 102px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .content__video {
-    
+    padding: 64px 16px;
   }
-} */
+} 
