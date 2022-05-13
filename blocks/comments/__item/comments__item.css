@@ -1,0 +1,20 @@
+.comments__item {
+  min-width: 296px;
+  height: 100%;
+  padding-right: 19px;
+  flex-basis: 382px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1023px) {
+  .comments__item {
+    padding: 0 0 48px;
+    flex-basis: auto;
+  }
+}
+
+.comments__item:last-of-type {
+  padding-right: 0;
+  padding-bottom: 0;
+}

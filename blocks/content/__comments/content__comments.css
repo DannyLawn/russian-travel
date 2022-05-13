@@ -1,0 +1,18 @@
+.content__comments {
+  box-sizing: inherit;
+  width: 100%;
+  padding: 0 48px 102px;
+}
+
+@media screen and (max-width: 1023px) {
+  .content__comments {
+    padding-right: 54px;
+    padding-left: 54px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content__comments {
+    padding: 0 16px 64px;
+  }
+} 

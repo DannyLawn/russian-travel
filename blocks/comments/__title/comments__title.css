@@ -1,27 +1,27 @@
-.video__title {
+.comments__title {
   font-weight: 900;
   font-size: 72px;
   line-height: 78px;
-  margin: 0 auto;
   max-width: 800px;
   text-align: center;
-  padding-bottom: 35px;
+  margin: 0 auto;
+  padding-bottom: 48px;
 }
 
 @media screen and (max-width: 1023px) {
-  .video__title {
-    max-width: 443px;
-    padding-bottom: 40px;
+  .comments__title {
     font-size: 42px;
     line-height: 46px;
+    padding-bottom: 34px;
+    max-width: 660px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .video__title {
+  .comments__title {
+    font-size: 32px;
+    line-height: 35px;
     padding-bottom: 24px;
     max-width: 343px;
-    font-size: 32px;
-    line-height: 35px
   }
 }

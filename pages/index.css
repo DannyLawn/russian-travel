@@ -46,9 +46,7 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/content/__video/content__video.css);
 @import url(../blocks/video/__title/video__title.css);
-@import url(../blocks/video/__title/_align/video__title_align-center.css);
 @import url(../blocks/video/__subtitle/video__subtitle.css);
-@import url(../blocks/video/__subtitle/_align/video__subtitle_align-center.css);
 @import url(../blocks/video/__container/video__container.css);
 @import url(../blocks/video/__item/video__item.css);
 @import url(../blocks/video/__link/video__link.css);
@@ -58,6 +56,16 @@
 @import url(../blocks/video/__duration/video__duration.css);
 @import url(../blocks/video/__item-title/video__item-title.css);
 @import url(../blocks/video/__director/video__director.css);
+
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/content/__comments/content__comments.css);
+@import url(../blocks/comments/__title/comments__title.css);
+@import url(../blocks/comments/__subtitle/comments__subtitle.css);
+@import url(../blocks/comments/__container/comments__container.css);
+@import url(../blocks/comments/__item/comments__item.css);
+@import url(../blocks/comments/__person-photo/comments__person-photo.css);
+@import url(../blocks/comments/__quote/comments__quote.css);
+@import url(../blocks/comments/__author/comments__author.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/content/__cover/content__cover.css);
