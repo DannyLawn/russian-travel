@@ -14,12 +14,6 @@
   }
 }
 
-/* @media screen and (max-width: 1023px) {
-  .video__container {
-    gap: 16px;
-  }
-} */
-
 @media screen and (max-width: 767px) {
   .video__container {
     width: 100%;

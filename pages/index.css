@@ -55,7 +55,6 @@
 @import url(../blocks/video/__background-img/video__background-img.css);
 @import url(../blocks/video/__elements/video__elements.css);
 @import url(../blocks/video/__play-icon/video__play-icon.css);
-@import url(../blocks/video/__info-block/video__info-block.css);
 @import url(../blocks/video/__duration/video__duration.css);
 @import url(../blocks/video/__item-title/video__item-title.css);
 @import url(../blocks/video/__director/video__director.css);

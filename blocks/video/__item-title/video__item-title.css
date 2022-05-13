@@ -6,3 +6,17 @@
   margin: 0;
   padding-bottom: 18px;
 }
+
+@media screen and (max-width: 1023px) {
+  .video__item-title {
+    padding-bottom: 12px;
+    font-size: 24px;
+    line-height: 26px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video__item-title {
+    padding-bottom: 10px;
+  }
+}
