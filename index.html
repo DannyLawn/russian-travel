@@ -13,9 +13,9 @@
     
     <header class="header page__header">
       <img class="header__logo" src="./images/header-logo.svg" alt="логотип с континентом России.">
-      <ul class="header__lingue">
-        <li class="header__lang-item"><a class="header__lang-link link-hover header__lang-link_enabled" href="#">Ru</a></li>
-        <li class="header__lang-item"><a class="header__lang-link link-hover" href="#">En</a></li>
+      <ul class="language">
+        <img src="./images/lang__ru.png" alt="ru" data-google-lang="ru" class="language__img">
+        <img src="./images/lang__en.png" alt="en" data-google-lang="en" class="language__img">
       </ul>
     </header>
 
@@ -211,5 +211,8 @@
     </footer>
 
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+  <script src="./utils.js/google-translate.js"></script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
 </body>
 </html>
